@@ -29,10 +29,6 @@ __“그럼 셔틀을 쉽게 관리할 수 있는 웹사이트가 필요하겠�
 
 <br/>
 
-### ✅ 회원 관리 시스템
-- **관리자와 기사 계정을 구분**하여 관리
-- 각 사용자 레벨에 맞는 **권한 관리 페이지** 제공
-
 ### ✅ 셔틀 스케줄 관리 시스템
 - 날짜별, 시간대별, 호차별 **운행 시간표 조회**
 - 등/하원 정보의 **실시간 업데이트와 조회** 가능
@@ -52,25 +48,10 @@ __“그럼 셔틀을 쉽게 관리할 수 있는 웹사이트가 필요하겠�
 <br></br>
   
 ---
-## 관리자 페이지
-
-### 학생 관리 
-https://github.com/user-attachments/assets/871cf060-a840-424d-acc7-cd0decb52030
-- 학생 등록
-
-https://github.com/user-attachments/assets/ead6daba-5577-452d-9c98-06c5cec1bfd2
-- 수업 등록 및 시간표 추가
-
-https://github.com/user-attachments/assets/72222c19-a1f4-4605-bc8a-8dcd639f79b4
-- 학생 수업 배정
-<br></br>
 
 ### 차량 관리
 
-
 https://github.com/user-attachments/assets/625ed3d2-6d81-4929-af7d-15ee04d18e3b
-
-
 - 차량 등록 및 기사 배정
 <br></br>
 
@@ -84,9 +65,3 @@ https://github.com/user-attachments/assets/c8c4e0bc-88da-4f16-86e3-41b3dff59b62
 - 기사 운영 시간표 및 학생 정보
 
 <br></br>
-
-## SUTTLE PASS 팀
-| [김유진](https://github.com/Youjin-K) | [김영완](https://github.com/kimywann) | [복건용](https://github.com/gunyongbok) |  
-| -- | -- | -- |
-| <img src="https://avatars.githubusercontent.com/u/98639210?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/168577980?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/107167774?v=4" width="120" /> |
-| <p align="center">**FE**</p> | <p align="center">**FE**</p> | <p align="center">**FE**</p> |
